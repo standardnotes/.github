@@ -1,0 +1,12 @@
+{
+  "name": "Brakeman Workflow",
+  "description": "Brakeman workflow template.",
+  "categories": [
+    "Ruby"
+  ],
+  "filePatterns": [
+      "Gemfile$",
+      "^Dockerfile",
+      ".*\\.md$"
+  ]
+}
